@@ -1,0 +1,21 @@
+.panel {padding: 15px; background-color: white;}
+
+.mainHeaderFont {color: #fff; font-family: georgia, palatino, serif; font-style: italic; font-size: 35px; text-align: center; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; font-weight: 600;}
+.headerFont {color: #000; font-family: georgia, palatino, serif; font-style: italic; font-size: 40px; text-align: center;}
+.nameFont {color: #fff; font-family: lulo-clean-w01-one-bold, sans-serif; letter-spacing: 0.15em; font-size: 80px; font-weight: bold; text-align: center; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;}
+
+.form-control {margin: 5px;}
+.jobTitle {font-size: 16px; text-align: center;;}
+
+.resizable {
+    display: inline-block;
+    background-color: red;
+    height: 20px;
+    width: 2px;
+    transition: all 1s ease-out;
+    margin-right: 5px;
+}
+
+.percents {
+    display: none;
+}
